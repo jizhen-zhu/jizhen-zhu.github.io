@@ -1,2 +1,2 @@
-# http://jizhen-zhu.github.io
-This is my website.
+## http://jizhen-zhu.github.io
+## Welcome to my personal academic website!
